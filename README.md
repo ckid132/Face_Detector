@@ -7,6 +7,7 @@ getblue / getchar / FaceDetector
  프로젝트명 : Object Detection & Tracking Camera
 수행기간
  2023. 09. 12 ~ 2023. 09. 22 (11일)
+
 담당역할
  - 소프트웨어 구현(아두이노, python)
  - 카메라 장착
